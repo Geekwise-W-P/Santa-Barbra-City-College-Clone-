@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@SBCC.clone:
+  ssh: vagrant:SBCC.clone:/var/www/html
