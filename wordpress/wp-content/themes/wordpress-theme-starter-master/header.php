@@ -29,9 +29,34 @@
 		<div class="wrapper">
 
 			<!-- header -->
-			<header class="header clear" role="banner">
-			
-				
+		<div class="row">
+			<div class="col-1">			
+				<nav class="navbar bg-dark">
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<a class="nav-link" href="#">SBCC</a>
+						</li>
 
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link 1</a>
+						</li>
+
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link 2</a>
+						</li>
+
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link 3</a>
+						</li>
+
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link 4</a>
+						</li>
+
+					</ul>
+			
+				</nav>
+			</div>
+		</div>
 			</header>
 			<!-- /header -->
