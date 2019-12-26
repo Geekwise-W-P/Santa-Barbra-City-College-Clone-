@@ -8,9 +8,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-h1 {
-  color: mediumaquamarine;
-}
+
 @media only screen and (max-width:768px) {
 	header {
 		display: none;
