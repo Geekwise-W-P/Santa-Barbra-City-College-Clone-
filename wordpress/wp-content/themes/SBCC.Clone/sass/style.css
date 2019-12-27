@@ -63,10 +63,12 @@
 .hero {
   height: 100vh;
 }
+
 .hero .jumbotron {
   padding: 0;
   margin-bottom: 0;
 }
+
 .hero #video-background {
   position: fixed;
   top: 0;
@@ -77,17 +79,21 @@
   z-index: -100;
   width: 100%;
 }
+
 .hero .hero-img {
   width: 100%;
   height: 100vh;
   top: 0;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
+
 .hero .info-container {
   width: 100%;
   position: absolute;
   bottom: 7vh;
 }
+
 .hero .info-container .title {
   font-family: "Roboto Slab", serif;
   font-size: 2.8rem;
@@ -96,15 +102,18 @@
   color: #000;
   margin-bottom: 20px;
 }
+
 .hero .info-container .sub-container {
   height: 76px;
   font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
 .hero .info-container a {
   color: #000;
 }
+
 .hero .btn-wide {
   width: 94%;
   padding: 11px 10px 8px;
@@ -116,12 +125,13 @@
   letter-spacing: 2px;
   margin: 0 auto;
 }
-h1{
-    color: #000000;
-}
-.btn{
-    background-color: #A6192E;
-    color: white;
+
+h1 {
+  color: #000000;
 }
 
+.btn {
+  background-color: #A6192E;
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */

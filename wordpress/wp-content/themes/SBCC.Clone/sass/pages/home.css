@@ -1,1 +1,13 @@
-/* No CSS *//*# sourceMappingURL=home.css.map */
+h1 {
+  color: #000000;
+}
+
+.btn {
+  background-color: #A6192E;
+  color: white;
+}
+
+.anncouncment-img {
+  background-color: darkred;
+}
+/*# sourceMappingURL=home.css.map */
