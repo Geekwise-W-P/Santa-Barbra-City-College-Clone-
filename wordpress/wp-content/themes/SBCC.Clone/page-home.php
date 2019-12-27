@@ -38,11 +38,14 @@ get_header(); ?>
 
 			</article>
 			<!-- /article -->
+			
 
 		<?php endif; ?>
 
 		</section>
 		<!-- /section -->
+
+		
 	</main>
 
 

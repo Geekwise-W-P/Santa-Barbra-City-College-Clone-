@@ -1,18 +1,18 @@
-<?php get_header(); ?>
+<?php get_header(); 
+/* 
+ * Template Name: Homepage
+ * Template Post Type: page
+ */
 
-	<main role="main">
-		<!-- section -->
-		<section>
-
-			<h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
-
-			<?php get_template_part('loop'); ?>
-
-			<?php get_template_part('pagination'); ?>
-
-		</section>
-		<!-- /section -->
-
+?>
+  <main role="main">
+    <!-- section -->
+    <section>
+      <h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
+      <?php get_template_part('loop'); ?>
+      <?php get_template_part('pagination'); ?>
+    </section>
+    <!-- /section -->
 <!------------- Start of Testimonies ------------->
 
 <section>
@@ -84,12 +84,12 @@
 		<button type="button" class="btn btn-primary btn-lg btn-block pull-right">Find a Class</button>
 		<button type="button" class="btn btn-primary btn-lg btn-block pull-right">Support and Success</button>
 </div>
-
 </section>
 
 <!------------- End Section Image -------------------->
-	</main>
+
+  </main>
+
 
 <?php get_sidebar(); ?>
-
 <?php get_footer(); ?>
