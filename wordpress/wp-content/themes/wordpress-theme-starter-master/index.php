@@ -1,7 +1,5 @@
 <?php get_header(); ?>
 
-<div class="row justify-content-around">
-	<div class="col-8 ">
 
 
 				<main role="main">
@@ -24,6 +22,3 @@
 				<?php get_sidebar(); ?>
 
 				<?php get_footer(); ?>
-	</div>			
-
-</div>

@@ -29,34 +29,12 @@
 		<div class="wrapper">
 
 			<!-- header -->
-		<div class="row">
-			<div class="col-1">			
-				<nav class="navbar bg-dark">
-					<ul class="navbar-nav">
-						<li class="nav-item">
-							<a class="nav-link" href="#">SBCC</a>
-						</li>
-
-						<li class="nav-item">
-							<a class="nav-link" href="#">Link 1</a>
-						</li>
-
-						<li class="nav-item">
-							<a class="nav-link" href="#">Link 2</a>
-						</li>
-
-						<li class="nav-item">
-							<a class="nav-link" href="#">Link 3</a>
-						</li>
-
-						<li class="nav-item">
-							<a class="nav-link" href="#">Link 4</a>
-						</li>
-
-					</ul>
-			
-				</nav>
-			</div>
-		</div>
+			<nav class="nav flex-column">
+				<a class="nav-link active" href="#">SBCC</a>
+				<a class="nav-link" href="#">Link</a>
+				<a class="nav-link" href="#">Link</a>
+				<a class="nav-link" href="#">Link</a>
+				<a class="nav-link" href="#">Link</a>
+			</nav>
 			</header>
 			<!-- /header -->
