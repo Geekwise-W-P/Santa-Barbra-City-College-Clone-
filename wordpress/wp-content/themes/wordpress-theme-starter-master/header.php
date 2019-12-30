@@ -29,6 +29,8 @@
 		<div class="wrapper">
 
 			<!-- header -->
+
+			<!-- navbar -->
 			<nav class="nav flex-column">
 				<a class="nav-link active" href="#">SBCC</a>
 				<a class="nav-link" href="#">Link</a>
@@ -36,5 +38,6 @@
 				<a class="nav-link" href="#">Link</a>
 				<a class="nav-link" href="#">Link</a>
 			</nav>
+			<!--/navbar-->
 			</header>
 			<!-- /header -->

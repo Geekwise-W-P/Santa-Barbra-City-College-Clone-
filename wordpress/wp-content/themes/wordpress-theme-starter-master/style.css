@@ -120,10 +120,14 @@ h1 {
 }
 
 .flex-column {
-  background-color: lightblue;
+  background-color: #A6192E;
   height: 100%;
   position: fixed;
   width: 80px;
+}
+
+.nav-link {
+  color: white;
 }
 
 /*# sourceMappingURL=style.css.map */

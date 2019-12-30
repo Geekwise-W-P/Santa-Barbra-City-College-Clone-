@@ -1,24 +1,31 @@
 <?php get_header(); ?>
 
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div class="col-5">
+                    <main role="main">
+                        <!-- section -->
+                        <section>
 
+                            <h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
 
-				<main role="main">
-					<!-- section -->
-					<section>
+                            <?php get_template_part('loop'); ?>
 
-						<h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
+                            <?php get_template_part('pagination'); ?>
 
-						<?php get_template_part('loop'); ?>
-
-						<?php get_template_part('pagination'); ?>
-
-					</section>
-					<!-- /section -->
-					
-			
-				</main>
+                        </section>
+                        <!-- /section -->
+                        
+                
+                    </main>
 
 				
 				<?php get_sidebar(); ?>
 
-				<?php get_footer(); ?>
+                <?php get_footer(); ?>
+
+                </div>
+
+               </div> 
+            </div>    
+        </div>        
