@@ -90,25 +90,27 @@
     <h1>Acess and Affordable Degree</h1>
   </div>
 </div>
-<div class="row ml-5 mr-5 mt-3">
+</section>
+
+<section>
+<div class="row mt-3">
   <div class="col-xs-3 col-md-2 mt-5">
-    <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon1-e1577481537883.png" alt="200 plus." >
+    <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon1-e1577736588224.png" alt="200 plus." class=" finance-img" >
     <h1 class="text-bold text-center">200+</h1>
     <p class="text-center">scholarship offerings annually via SBCC and the SBCC Foundation</p>
-    
   </div>
   <div class="col-xs-3 col-md-3 mt-5">
-  <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon2-e1577481547184.png" alt="200 percent." class="finance-img">
-  <h1 class="text-bold text-center">87%</h1>
+  <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon2-e1577735858424.png" alt="200 percent." class="center-block finance-img">
+    <h1 class="text-bold text-center">87%</h1>
     <p class="text-center">of students recieve financial aid</p>
   </div>
   <div class="col-xs-3 col-md-3 mt-5">
-    <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon3-e1577481554554.png" alt="2 years"  class="finance-img">
+    <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon3-e1577735837597.png" alt="2 years"  class="center-block finance-img">
     <h1 class="text-bold text-center">2 years</h1>
     <p class="text-center">of free tution, books, fees, and supplies to local high-school graduates</p>
   </div>
   <div class="col-xs-3 col-md-3 mt-5">
-  <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon4-e1577481563975.png" alt="Pay for college.">
+  <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon4-e1577735908258.png" alt="Pay for college." class="center-block finance-img">
   <h1 class="text-bold text-center">Pay</h1>
   <h2 class="text-center text-bold">for college</h2>
   </div>
@@ -120,20 +122,25 @@
 <section>
 <div class="row ml-5 mr-5 mt-3">
   <div class="col-sm-12 mt-5">
-  <h1>Accouncemnts</h1>
+  <h1>Announcements</h1>
   </div>
-  <div class="row ml-5 mr-5 mt-3">
+</section>
+
+<section class="container">
+  <div class="row mt-3">
   <div class="col-xs-4 col-md-4 mt-5">
-    <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcemnt1-e1577485522396.png" alt="" class="anncouncment-img">
-    <p>Sign uo to receive emergency notifcations from SBCC: TEXT "Join SBCC" to 58339</p>
+    <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcemnt1-e1577485522396.png" alt="" class="">
+    <p class="text-align-left">Sign uo to receive emergency notifcations from SBCC: TEXT "Join SBCC" to 58339</p>
   </div>
   <div class="col-xs-4 col-md-4 mt-5">
-    <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcement2-e1577485563380.jpg" alt="" class="anncouncment-img" >
-    <p>SBCC Trustees pleased to announce selection of Dr. Goswami as the next Superintendent/President</p>
+    <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcement2-e1577485563380.jpg" alt="" class="" >
+    <p class="text-align-left">SBCC Trustees pleased to announce selection of Dr. Goswami as the next Superintendent/President</p>
+    <a href="#" class="text-uppercase text-align-left announcements-links">Read the press release</a>
     
   </div>
   <div class="col-xs-4 col-md-4 mt-5">
-    <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcement3-e1577485596462.png" alt="" class="anncouncment-img">
+    <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcement3-e1577485596462.png" alt="" class="">
+    <a href="#" class="text-align-left announcements-links">Find a class</a>
   </div>
 
 </div>

@@ -116,12 +116,18 @@
   letter-spacing: 2px;
   margin: 0 auto;
 }
-h1{
-    color: #000000;
+
+h1 {
+  color: #000000;
 }
-.btn{
-    background-color: #A6192E;
-    color: white;
+
+.btn {
+  background-color: #A6192E;
+  color: white;
+}
+
+.announcements-links {
+  color: #A6192E;
 }
 
 /*# sourceMappingURL=style.css.map */
