@@ -61,7 +61,7 @@
 		<h1 class="mt-5">Find your path</h1>
 
 		<p class="mt-5">Expand your horizons by taking a range of classes, or focus on the field that inspires
-                                 you. You can rely on our support as you aim for success.</p>
+    you. You can rely on our support as you aim for success.</p>
 
 	</div>
 </div>
@@ -74,7 +74,7 @@
  <section >
 <div class="row">
 	<div class="col-sm-5 col-md-5">
-		<button type="button" class="btn btn-primary btn-lg btn-block ">Apply and Enroll</button>
+		<button type="button" class="btn btn-primary btn-lg btn-block">Apply and Enroll</button>
 		<button type="button" class="btn btn-primary btn-lg btn-block ">Academic and Career Pathways</button>
 		<button type="button" class="btn btn-primary btn-lg btn-block ">All Degrees and Certificates</button>
 		<button type="button" class="btn btn-primary btn-lg btn-block ">Find a Class</button>
@@ -125,10 +125,12 @@
   <div class="row ml-5 mr-5 mt-3">
   <div class="col-xs-4 col-md-4 mt-5">
     <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcemnt1-e1577485522396.png" alt="" class="anncouncment-img">
-  
+    <p>Sign uo to receive emergency notifcations from SBCC: TEXT "Join SBCC" to 58339</p>
   </div>
   <div class="col-xs-4 col-md-4 mt-5">
     <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcement2-e1577485563380.jpg" alt="" class="anncouncment-img" >
+    <p>SBCC Trustees pleased to announce selection of Dr. Goswami as the next Superintendent/President</p>
+    
   </div>
   <div class="col-xs-4 col-md-4 mt-5">
     <img src="http://SBCC.clone/wp-content/uploads/2019/12/announcement3-e1577485596462.png" alt="" class="anncouncment-img">
