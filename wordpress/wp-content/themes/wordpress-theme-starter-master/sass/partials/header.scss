@@ -5,7 +5,7 @@
 
 
 // Header container
-.header {}
+//.header {}
 
 // Logo
 .logo {
@@ -17,4 +17,21 @@
   left: 7%;
 }
 
-.logo-img {}
+//.logo-img {}
+
+
+
+.flex-column{
+  background-color:#A6192E;
+  height:100%;
+  position:fixed;
+  width:80px;
+}
+
+.nav-link{
+  color:white;
+}
+
+.uppernav{
+  z-index: 5;
+}
