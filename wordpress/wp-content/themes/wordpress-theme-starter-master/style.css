@@ -55,6 +55,21 @@
   left: 7%;
 }
 
+.flex-column {
+  background-color: #A6192E;
+  height: 100%;
+  position: fixed;
+  width: 80px;
+}
+
+.nav-link {
+  color: white;
+}
+
+.uppernav {
+  z-index: 5;
+}
+
 /**
  * partials/footer
  * ---
@@ -116,18 +131,11 @@
 }
 
 h1 {
-  color: violet;
+  color: red;
 }
 
-.flex-column {
-  background-color: #A6192E;
-  height: 100%;
-  position: fixed;
-  width: 80px;
-}
-
-.nav-link {
-  color: white;
+.carousel {
+  margin-left: 80px;
 }
 
 /*# sourceMappingURL=style.css.map */

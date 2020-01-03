@@ -31,7 +31,7 @@
 			<!-- header -->
 
 			<!-- navbar -->
-			<nav class="nav flex-column">
+			<nav class="nav flex-column uppernav">
 				<a class="nav-link active" href="#">SBCC</a>
 				<a class="nav-link" href="#">Link</a>
 				<a class="nav-link" href="#">Link</a>
