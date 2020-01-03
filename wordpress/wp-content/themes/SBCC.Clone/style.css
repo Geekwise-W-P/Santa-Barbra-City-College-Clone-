@@ -130,4 +130,13 @@ h1 {
   color: #A6192E;
 }
 
+.card {
+  border: none;
+}
+
+.scholarship-img {
+  height: auto;
+  width: 10rem;
+}
+
 /*# sourceMappingURL=style.css.map */

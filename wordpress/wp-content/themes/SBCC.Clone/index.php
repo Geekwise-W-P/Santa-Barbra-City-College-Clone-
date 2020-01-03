@@ -71,15 +71,18 @@
 
 <!------------- Start Section Image -------------------->
 
- <section >
-<div class="row">
-	<div class="col-sm-5 col-md-5">
-		<button type="button" class="btn btn-primary btn-lg btn-block">Apply and Enroll</button>
-		<button type="button" class="btn btn-primary btn-lg btn-block ">Academic and Career Pathways</button>
-		<button type="button" class="btn btn-primary btn-lg btn-block ">All Degrees and Certificates</button>
-		<button type="button" class="btn btn-primary btn-lg btn-block ">Find a Class</button>
-		<button type="button" class="btn btn-primary btn-lg btn-block ">Support and Success</button>
-</div>
+<section>
+  <div class="container-fluid">
+    <div class="row">
+	    <div class="col-sm-5 col-md-5">
+		    <button type="button" class="btn btn-primary btn-lg btn-block">Apply and Enroll</button>
+		    <button type="button" class="btn btn-primary btn-lg btn-block ">Academic and Career Pathways</button>
+		    <button type="button" class="btn btn-primary btn-lg btn-block ">All Degrees and Certificates</button>
+		    <button type="button" class="btn btn-primary btn-lg btn-block ">Find a Class</button>
+		    <button type="button" class="btn btn-primary btn-lg btn-block ">Support and Success</button>
+      </div>
+    </div>
+  </div>
 </section>
 <!------------- End Section Image -------------------->
 
@@ -91,31 +94,45 @@
   </div>
 </div>
 </section>
-
-<section>
-<div class="row mt-3">
-  <div class="col-xs-3 col-md-2 mt-5">
-    <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon1-e1577736588224.png" alt="200 plus." class=" finance-img" >
-    <h1 class="text-bold text-center">200+</h1>
-    <p class="text-center">scholarship offerings annually via SBCC and the SBCC Foundation</p>
-  </div>
-  <div class="col-xs-3 col-md-3 mt-5">
-  <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon2-e1577735858424.png" alt="200 percent." class="center-block finance-img">
-    <h1 class="text-bold text-center">87%</h1>
-    <p class="text-center">of students recieve financial aid</p>
-  </div>
-  <div class="col-xs-3 col-md-3 mt-5">
-    <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon3-e1577735837597.png" alt="2 years"  class="center-block finance-img">
-    <h1 class="text-bold text-center">2 years</h1>
-    <p class="text-center">of free tution, books, fees, and supplies to local high-school graduates</p>
-  </div>
-  <div class="col-xs-3 col-md-3 mt-5">
-  <img src="http://SBCC.clone/wp-content/uploads/2019/12/icon4-e1577735908258.png" alt="Pay for college." class="center-block finance-img">
-  <h1 class="text-bold text-center">Pay</h1>
-  <h2 class="text-center text-bold">for college</h2>
-  </div>
+<div class="row ml-5 mr-5 mt-3">
+  <div class="col-sm-3 col-md-3">
+    <div class="card" style="width: 15rem;">
+    <img class="card-img-top mx-auto scholarship-img" src="http://SBCC.clone/wp-content/uploads/2020/01/scholarship1.png" alt="Card image cap">
+      <div class="card-body">
+      <h1 class="card-title text-center font-weight-bold">200 +</h1>
+      <p class="card-text text-center">scholarship offerings annually via SBCC and the SBCC Foundation</p>
+      </div>
+    </div> 
+  </div>  
+  <div class="col-sm-3 col-md-3">
+    <div class="card" style="width: 15rem;">
+    <img class="card-img-top mx-auto scholarship-img" src="http://SBCC.clone/wp-content/uploads/2020/01/Screen-Shot-2020-01-02-at-11.49.36-PM.png" alt="Card image cap">
+      <div class="card-body">
+      <h1 class="card-title text-center font-weight-bold">87%</h1>
+      <p class="card-text text-center">of students recieve financial aid</p>
+      </div>
+    </div> 
+  </div>  
+  <div class="col-sm-3 col-md-3">
+    <div class="card" style="width: 15rem;">
+    <img class="card-img-top mx-auto scholarship-img" src="http://SBCC.clone/wp-content/uploads/2020/01/Screen-Shot-2020-01-02-at-11.49.57-PM.png" alt="Card image cap">
+      <div class="card-body">
+      <h1 class="card-title text-center font-weight-bold">2 years</h1>
+      <p class="card-text text-center">of free tution, books, fees, and supplies to local high-school graduates</p>
+      </div>
+    </div> 
+  </div> 
+  <div class="col-sm-3 col-md-3">
+    <div class="card" style="width: 15rem;">
+    <img class="card-img-top mx-auto scholarship-img" src="http://SBCC.clone/wp-content/uploads/2020/01/Screen-Shot-2020-01-02-at-11.50.26-PM.png" alt="Card image cap">
+      <div class="card-body">
+      <h1 class="card-title text-center font-weight-bold">Pay</h1>
+      <h3 class="card-text text-center font-weight-bold">for college</h3>
+      </div>
+    </div> 
+  </div> 
 </div>
-</section>
+
 <!-------------- End Start Finances  ---------------------->
 
 <!-------------- Start Announcemnets ---------------------->

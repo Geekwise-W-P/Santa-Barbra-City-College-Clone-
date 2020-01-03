@@ -10,4 +10,13 @@ h1 {
 .announcements-links {
   color: #A6192E;
 }
+
+.card {
+  border: none;
+}
+
+.scholarship-img {
+  height: auto;
+  width: 10rem;
+}
 /*# sourceMappingURL=home.css.map */
