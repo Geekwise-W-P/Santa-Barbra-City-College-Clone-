@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 
+<!--Begining Carousel-->
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 
   <ol class="carousel-indicators">
@@ -29,7 +30,9 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+<!--End Carousel-->
 
+<!--Centering Content-->
         <div class="container">
         
             <div class="row justify-content-md-center">
@@ -60,3 +63,4 @@
                </div> 
             </div>    
         </div>        
+<!--End Content-->
