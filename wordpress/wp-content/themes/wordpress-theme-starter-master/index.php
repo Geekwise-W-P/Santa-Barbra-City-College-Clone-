@@ -56,11 +56,12 @@
 				
 				<?php get_sidebar(); ?>
 
-                <?php get_footer(); ?>
+                
 
                 </div>
 
                </div> 
             </div>    
-        </div>        
+        </div>     
+        <?php get_footer(); ?>   
 <!--End Content-->
