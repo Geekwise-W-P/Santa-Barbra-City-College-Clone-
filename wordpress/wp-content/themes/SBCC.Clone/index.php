@@ -14,7 +14,60 @@
     </section>
     <!-- /section -->
 <!------------- Start of Testimonies ------------->
+
 <section>
+  <div class="row ml-5 mr-5 mt-3">
+    <div class="col-sm-3 col-md-3">
+      <div class="card" style="width: 18rem;">
+      <img class="card-img" src="http://SBCC.clone/wp-content/uploads/2019/12/quote1.jpg" alt="Card image">
+      <div class="card-img-overlay">
+        <h5 class="card-title text-center test-txt test-txt-1">card title</h5>
+        <p class="card-text text-center test-txt test-txt-2">I'm happy to be in a school where classes are small and where I have direct contact
+                  with the faculty</p>
+        <figcaption class="text-center test-txt text-uppercase">Isabel</figcaption>
+      </div>
+    </div>
+    </div>
+    <div class="col-sm-3 col-md-3">
+      <div class="card" style="width: 18rem;">
+      <img class="card-img" src="http://SBCC.clone/wp-content/uploads/2019/12/quote2.jpg" alt="Card image">
+      <div class="card-img-overlay">
+        <h5 class="card-title text-center test-txt test-txt-1">card title</h5>
+        <p class="card-text text-center test-txt test-txt-2">I'm happy to be in a school where classes are small and where I have direct contact
+                  with the faculty.</p>
+        <figcaption class="text-center test-txt text-uppercase">Will</figcaption>
+      </div>
+    </div>
+    </div>
+    <div class="col-sm-3 col-md-3">
+      <div class="card" style="width: 18rem;">
+      <img class="card-img" src="http://SBCC.clone/wp-content/uploads/2019/12/quote3.jpg" alt="Card image">
+      <div class="card-img-overlay">
+        <h5 class="card-title text-center test-txt test-txt-1">card title</h5>
+        <p class="card-text text-center test-txt test-txt-2">After learning about the award-winning nursing program here, I knew it was the right
+                  choice for me.</p>
+        <figcaption class="text-center test-txt text-uppercase">Mekia</figcaption>          
+      </div>
+    </div>
+    </div>
+    <div class="col-sm-3 col-md-3">
+      <div class="card" style="width: 18rem;">
+      <img class="card-img" src="http://SBCC.clone/wp-content/uploads/2019/12/quote4.jpg" alt="Card image">
+      <div class="card-img-overlay">
+        <h5 class="card-title text-center test-txt test-txt-1">card title</h5>
+        <p class="card-text text-center test-txt test-txt-2">I'm so grateful to SBCC for setting me up for success.</p>
+        <figcaption class="text-center test-txt text-uppercase">Cameron</figcaption>
+      </div>
+    </div>
+    </div>
+
+
+  </div>
+</section>
+
+
+
+<!-- <section>
 <div class="row gutter mr-5 ml-5">
 	<div class="col-xs-3 col-md-3">
 	<img src="http://SBCC.clone/wp-content/uploads/2019/12/quote1.jpg" alt="Isabel, student at Santa Barbra City College">
@@ -49,7 +102,7 @@
 	</div>
 	</div>
 </div>
-</section>
+</section> -->
 
 <!------------- End of Testimonies ------------->
 
