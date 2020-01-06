@@ -1,0 +1,26 @@
+h1 {
+  color: #000000;
+}
+
+.btn {
+  background-color: #A6192E;
+  color: white;
+}
+
+.announcements-links {
+  color: #A6192E;
+}
+
+.card {
+  border: none;
+}
+
+.scholarship-img {
+  height: auto;
+  width: 10rem;
+}
+
+.test-text {
+  margin-top: 75%;
+}
+/*# sourceMappingURL=home.css.map */
