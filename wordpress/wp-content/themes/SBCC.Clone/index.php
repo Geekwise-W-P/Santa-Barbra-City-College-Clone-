@@ -13,6 +13,7 @@
       <?php get_template_part('pagination'); ?>
     </section>
     <!-- /section -->
+    
 <!------------- Start of Testimonies ------------->
 
 <section>
@@ -64,45 +65,6 @@
 
   </div>
 </section>
-
-
-
-<!-- <section>
-<div class="row gutter mr-5 ml-5">
-	<div class="col-xs-3 col-md-3">
-	<img src="http://SBCC.clone/wp-content/uploads/2019/12/quote1.jpg" alt="Isabel, student at Santa Barbra City College">
-	<div class="carousel-caption  bold">
-		<p>I'm happy to be in a school where classes are small and where I have direct contact
-									with the faculty.</p>
-		<p class="text-uppercase">Isabel</p>
-		
-	</div>
-	</div>
-	<div class="col-xs-3 col-md-3">
-	<img src="http://SBCC.clone/wp-content/uploads/2019/12/quote2.jpg" alt="Will, student at Santa Barbra City College">
-	<div class="carousel-caption bold">
-		<p>I'm happy to be in a school where classes are small and where I have direct contact
-									with the faculty.</p>
-		<p class="text-uppercase ">Will</p>
-	</div>
-	</div>
-	<div class="col-xs-3 col-md-3">
-	<img src="http://SBCC.clone/wp-content/uploads/2019/12/quote3.jpg" alt="Mekia, student at Santa Barbra City College">
-	<div class="carousel-caption bold">
-		<p>After learning about the award-winning nursing program here, I knew it was the right
-									choice for me.</p>
-		<p class="text-uppercase ">Mekia</p>
-	</div>
-	</div>
-	<div class="col-xs-3 col-md-3">
-	<img src="http://SBCC.clone/wp-content/uploads/2019/12/quote4.jpg" alt="Cameron, student at Santa Barbra City College">
-	<div class="carousel-caption bold">
-		<p>I'm so grateful to SBCC for setting me up for success.</p>
-		<h6 class="text-uppercase ">Cameron</h6>
-	</div>
-	</div>
-</div>
-</section> -->
 
 <!------------- End of Testimonies ------------->
 
